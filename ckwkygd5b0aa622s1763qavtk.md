@@ -1,5 +1,7 @@
 ## Câu chuyện chuyện nhà - Happy New Home
 
+Mến chào các bạn,
+
 Đáng lẽ bài này sẽ được ra vào hôm chủ nhật 28/11/2021. Nhưng sau khi đau bụng vật vã vì thử món mới của mình thì não tôi đã rỗng như cái lọ thủy tinh, chỉ muốn ngủ.
 
 # Làm sao phải chuyển nhà?
@@ -24,5 +26,7 @@ Dưới đây là các tiêu chí của tôi, sắp xếp theo thứ tự mức 
 Sau một giờ test với đủ các trang thì ứng cử viên sáng giá nhất là [hashnode](https://hashnode.com/)
 
 Và [đây](https://nanacoder.hashnode.dev/) chính là em blog mới **màu hồng** với mã là `#E045D1`. Bạn sẽ thấy rất nhiều thứ có mã màu này ở trong các bản thiết kế dùng Figma của tôi.
+
+Series 100 days of challenge sẽ nằm ở link [này](https://nanacoder.hashnode.dev/series/100-days-of-challenge). Tôi hi vọng nhận được góp ý từ các bạn.
 
 **Have fun and Welcome to my home!**
