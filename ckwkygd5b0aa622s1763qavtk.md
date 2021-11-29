@@ -16,7 +16,7 @@ Tôi được dạy từ bé rằng dĩ hòa vi quý nhưng phần lớn những
 
 Dưới đây là các tiêu chí của tôi, sắp xếp theo thứ tự mức độ quan trọng giảm dần.
 
-- Hỗ trợ markdown, trải nghiệm gõ mượt mà như notion
+- Hỗ trợ [markdown](https://www.markdownguide.org/), trải nghiệm gõ mượt mà như [Notion](https://www.notion.so/)
 - Hỗ trợ custom domain
 - Đồng bộ với Github repository
 - Custom UI
