@@ -8,7 +8,7 @@
 
 Năm 2017, tôi đọc cuốn sách tiếng anh đầu tiên có tên là The China Study của Tiến sỹ T. Colin Campbell và con trai mình là Thomas M. Campbell. Cuốn sách là tâm huyết một đời của hai người học giả này. Nội dung nói về những nghiên cứu dinh dưỡng ở Trung Quốc vào những năm 1940s.
 
-Cuốn sách ấy không nói về gia vị và thảo nhưng nhờ nó mà tôi lại tìm được nhiều nguời khác truyền cảm hứng như . Nếu bạn quan tâm có thể tìm đọc cuốn  Và câu chuyện học nấu ăn với gia vị và thảo mộc thay vì gia vị hóa học bắt đầu từ đó.
+Cuốn sách ấy không nói về gia vị và thảo nhưng nhờ nó mà tôi lại tìm được nhiều nguời khác truyền cảm hứng. Và câu chuyện học nấu ăn với gia vị và thảo mộc thay vì gia vị hóa học bắt đầu từ đó.
 
 Tôi đọc bản tiếng anh, bạn nào muốn tìm bản tiếng việt có thể ngó ở link Tiki [này](https://tiki.vn/bi-mat-dinh-duong-cho-suc-khoe-toan-dien-the-china-study-tai-ban-lan-thu-2-p13290131.html) nhé.
 
