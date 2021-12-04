@@ -40,7 +40,7 @@ Click vào phần **Scholarly articles for ...** thì bạn sẽ dẫn tới **G
 
 ![Screenshot from 2021-12-04 23-20-41.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1638635119369/LmB06yGr2c.png)
 
-## Gừng
+## Gừng (Ginger)
 
 Đây là gia vị phổ biến ở Việt Nam, rất nhiều món ăn có dùng gừng. Từ ngày thêm gừng vào các món rau củ luộc, tay chân tôi không còn bị lạnh vào mùa đông nữa và thân nhiệt của tôi khá ổn định. Tôi luôn luôn thêm gừng vào bất kỳ món rau luộc nào, từ các loại rau cải, cho tới các loại củ quả như su su, cà rốt, bắp cải ...
 
@@ -66,7 +66,7 @@ Cây rất dễ trồng, có thể sống trong chỗ bóng. Tôi đã trồng h
 
 ![cay-huong-thao.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1638634206675/SIrKNyM2m.jpeg)
 
-## Oregano (Kinh giới)
+## Kinh giới (Oregano)
 
 ![oregano-la-gi-2.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1638632769238/PExvTA89C.jpeg)
 
