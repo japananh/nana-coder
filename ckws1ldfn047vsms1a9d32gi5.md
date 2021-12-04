@@ -24,6 +24,8 @@ Vào năm 2017, gia vị và thảo mộc chủ yếu bán ở các siêu thị 
 
 Hãng tôi hay mua là McCormick. Một phần vì chất lượng của gia vị và một phần bao bì sản phẩm. Họ sản xuất gia vị trong lọ thủy tinh, có nắp chắc chắn và sau khi dùng xong thì những chiếc lọ xinh xắn ấy có thể dùng để cắm hoa trang trí nhà cửa.
 
+![f36d146b610fe4adf8f3b6891c09ca33.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1638636763729/wZgt568h2.jpeg)
+
 # Những loại gia vị và thảo mộc tôi hay dùng cùng tác dụng của chúng
 
 Hầu hết các gia vị tôi kể dưới tôi đều cho chúng vào ướp với thịt, bỏ vào xào hoặc nướng. Thành phần của chúng đều chứa các chất oxi hóa, giúp giảm huyết áp, tăng khả năng miễn dịch cùng nhiều ích lợi khác nữa.
