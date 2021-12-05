@@ -34,7 +34,7 @@ Hầu hết các gia vị tôi kể dưới tôi đều cho chúng vào ướp v
 
 Trên internet có rất nhiều tài liệu rác và thiếu dẫn chứng khoa học. Cho đến bây giờ, tôi chưa biết một trang tiếng việt nào nêu thông tin có kèm dẫn chứng. Vì thế, tôi chỉ bạn là đọc bằng tiếng anh. Nếu bạn biết trang tiếng việt về thảo mộc uy tín, xin hãy comment vào bài viết này.
 
-Cách tôi đọc về tác dụng của một loại thảo mộc là search với từ khóa **Tên gia vị/thảo mộc + rearch paper**.
+Cách tôi đọc về tác dụng của một loại thảo mộc là search với từ khóa **Tên gia vị/thảo mộc + research paper**.
 
 ![Screenshot from 2021-12-04 23-19-27.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1638634824559/rm8Kz3Hq5.png)
 
