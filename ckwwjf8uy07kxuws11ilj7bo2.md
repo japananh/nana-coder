@@ -88,7 +88,7 @@ Khi host Ngân nhắc tới từ **Circle of five** trong tập 11 thì tôi ngh
 
 ## Đa tài
 
-Điểm tôi quan tâm ngoài những bí quyết nghề là cuộc sống của họ sau công việc. **Cuộc sống ấy như thế nào? Đa sắc hay đơn sắc?** Cô bạn Thùy Giang thích lướt sóng và đi lặn. Cô bạn Trúc Ngân thích trượt băng nghệ thuật và các môn thủ công. Chị Liên Trần vừa là kỹ sư máy tính vừa làm nhà sản xuất âm nhạc. Anh Chân Lê có hiểu biết rộng về lĩnh vực tài chính và có rất nhiều lời khuyên về đầu tư bổ ích cho các bạn software engineer ở tập 9.
+Điểm tôi quan tâm ngoài những bí quyết nghề là cuộc sống của họ sau công việc. **Cuộc sống ấy như thế nào? Đa sắc hay đơn sắc?** Cô bạn Trúc Giang thích lướt sóng và đi lặn. Cô bạn Thùy Ngân thích trượt băng nghệ thuật và các môn thủ công. Chị Liên Trần vừa là kỹ sư máy tính vừa làm nhà sản xuất âm nhạc. Anh Chân Lê có hiểu biết rộng về lĩnh vực tài chính và có rất nhiều lời khuyên về đầu tư bổ ích cho các bạn software engineer ở tập 9.
 
 Khi bạn bị vây quanh bởi những con người sống hời hợt, đi làm, đi học để kiếm tiền, không tập thể dục thì những câu chuyện ấy như những tia sáng len lỏi khắp khoảng không u tối ấy. Như anh bạn Raxcolnicov gặp cô bé Xonia trong Tội ác và trừng phạt của Dostoevsky, để rồi tấm lòng trong sáng của cô khiến kẻ giết người thay đổi suy nghĩ.
 
