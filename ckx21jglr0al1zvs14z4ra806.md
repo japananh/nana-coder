@@ -2,7 +2,7 @@
 
 Tôi nghĩ vệ sinh răng miệng là chuyện cá nhân nhưng cảm giác khi giao tiếp với một người mà chỉ cần mở miệng ra là "hương hoa bay tới cả mét" thì thật bối rối. Tôi đã từng làm việc cùng một vài người như vậy và tôi nhớ đã không biết bao lần phải quay mặt ra hoặc đứng xa ra một chút. Tất cả những người đó đều dạy cho tôi bài học quan trọng về cách ứng xử là **"Đừng bao giờ để mùi của bạn làm ảnh hưởng tới cuộc sống của người khác"**.
 
-Nếu bạn gặp phải vấn đề với răng miệng (ví dụ, ê buốt, nhức răng, răng lung lay, hơi thở có mùi, răng bị ố) hoặc không có vấn đề gì những có men răng yếu,, thì đây là những lời khuyên có thể giúp ích cho bạn.  
+Nếu bạn gặp phải vấn đề với răng miệng (ví dụ, ê buốt, nhức răng, răng lung lay, hơi thở có mùi, răng bị ố) hoặc không có vấn đề gì những có men răng yếu, thì đây là những lời khuyên có thể giúp ích cho bạn.  
 
 - Không đánh răng với nước và chỉ dùng nước để súc miệng sau khi chải răng xong.
 
