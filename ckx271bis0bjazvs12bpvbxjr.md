@@ -10,7 +10,7 @@ Họ ghi hình 232 người nhìn vào hàng ngàng trang web và phát hiện r
 - Sau đó, di chuyển mắt xuống một chút, rồi lại di chuyển mắt tạo thành một đường ngang số hai.
 - Cuối cùng, người dùng quét mặt trái của nội dung theo chuyển động dọc. Quá trình này có thể diễn ra nhanh hoặc chậm. Chuyển động cuối này tạo thành cái đuôi của chữ F.
 
-![f_reading_pattern_eyetracking_nngroup.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1639249067185/wPxDkXrZU.jpeg)
+![AcrobatScreenSnapz001.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1639249891614/K8Pw8dVzt.png)
 
 # Hàm ý của F pattern
 
