@@ -51,7 +51,7 @@ Nguồn: https://www.inc.com/jessica-stillman/the-12-stages-of-burnout-according
 
 Những công việc trí óc đòi hỏi rất nhiều năng lượng và một lượng lớn dopamine, một chất dẫn truyền thần kinh tạo cảm giác hưng phấn, thích thú cho cơ thể. Khi nồng độ đường huyết giảm quá thấp thì cơ thể sẽ thèm đồ ngọt để phục hồi đường huyết và năng lượng hoạt động. Các bạn đừng vì thấy người ta bảo giảm đường là giảm béo mà cắt đường nhé. Phải lắng nghe cơ thể mình trước.
 
-Tôi nhớ mình đã ăn không ngừng nghỉ đồ ngọt (kẹo, bánh, đồ uống có đường và tất cả những thứ có vị ngọt khác) khi tôi đang làm việc. Ích lợi của biện pháp này là bạn sẽ thấy dễ chịu rất nhanh khi miếng thức ăn đầu tiên nằm yên vị trong miệng.
+Tôi nhớ mình đã ăn nhiều đồ ngọt (kẹo, bánh, đồ uống có đường và tất cả những thứ có vị ngọt khác) khi tôi làm việc. Mãi về sau tôi mới biết mình bị thiếu năng lượng và cơ thể chỉ đang cố làm công việc của nó mà thôi. Ích lợi của biện pháp này là bạn sẽ thấy dễ chịu rất nhanh khi miếng thức ăn đầu tiên nằm yên vị trong miệng.
 
 Còn tác hại thì một khi bạn đã phụ thuộc vào một thứ để duy trì trạng thái cảm xúc tích cực của mình, bạn biết rằng ngày nào đó, bạn sẽ trở thành con nghiện và quá trình cai nghiện có khi còn kinh khủng hơn là burnout. 
 
