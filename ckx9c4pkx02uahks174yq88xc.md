@@ -2,7 +2,7 @@
 
 Tôi chỉ có thể mô tả bằng hai từ là **KIỆT SỨC**. Tôi cũng không tài nào lý giải được chuyện gì đã xảy ra. Tôi đã thực sự **HOẢNG LOẠN**. Tôi đang bị gì thế này? 
 
-Đấy là trải nghiệm đầu tiên của tôi với **burnout**. Để thoát ra khỏi cái trạng thái điên rồi đấy thì tôi quyết định sẽ đọc hết tất cả những gì tôi có thể tìm thấy về burnout trên Google.
+Đấy là trải nghiệm đầu tiên của tôi với **burnout**. Để thoát ra khỏi cái trạng thái điên rồ đấy thì tôi quyết định sẽ đọc hết tất cả những gì tôi có thể tìm thấy về burnout trên Google.
 
 # Burnout là gì?
 
