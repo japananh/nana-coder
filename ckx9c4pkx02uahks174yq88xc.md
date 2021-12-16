@@ -49,13 +49,15 @@ Nguồn: https://www.inc.com/jessica-stillman/the-12-stages-of-burnout-according
 
 ## Cung cấp đủ năng lượng cho não
 
-Những công việc trí óc đòi hỏi rất nhiều năng lượng và một lượng lớn dopamine, một chất dẫn truyền thần kinh tạo cảm giác hưng phấn, thích thú cho cơ thể. Khi nồng độ đường huyết giảm quá thấp thì cơ thể sẽ thèm đồ ngọt để phục hồi đường huyết và năng lượng hoạt động.
+Những công việc trí óc đòi hỏi rất nhiều năng lượng và một lượng lớn dopamine, một chất dẫn truyền thần kinh tạo cảm giác hưng phấn, thích thú cho cơ thể. Khi nồng độ đường huyết giảm quá thấp thì cơ thể sẽ thèm đồ ngọt để phục hồi đường huyết và năng lượng hoạt động. Các bạn đừng vì thấy người ta bảo giảm đường là giảm béo mà cắt đường nhé. Phải lắng nghe cơ thể mình trước.
 
 Tôi nhớ mình đã ăn không ngừng nghỉ đồ ngọt (kẹo, bánh, đồ uống có đường và tất cả những thứ có vị ngọt khác) khi tôi đang làm việc. Ích lợi của biện pháp này là bạn sẽ thấy dễ chịu rất nhanh khi miếng thức ăn đầu tiên nằm yên vị trong miệng.
 
 Còn tác hại thì một khi bạn đã phụ thuộc vào một thứ để duy trì trạng thái cảm xúc tích cực của mình, bạn biết rằng ngày nào đó, bạn sẽ trở thành con nghiện và quá trình cai nghiện có khi còn kinh khủng hơn là burnout. 
 
 Bên cạnh đó, lượng đường cùng các chất hóa học khác trong những đồ ăn chế biến tăng một cách đột ngột vào máu sẵn sẽ khiến một vài hormones phải hoạt động nhiều, có thể dẫn tới quá tải và gây bệnh. Tôi nghĩ dùng những từ như thừa cân, béo phì, tiểu đường, máu nhiễm mỡ, huyết áp cao,... sẽ giúp bạn dễ hình dung hơn về vấn đề.
+
+Trước những tác hại không thể gánh nổi như vậy thì tôi đã sửa chế độ ăn của mình, bổ sung thêm đường vào bữa sáng và không ngờ là nó lại hiệu quả. Lúc cần đường, tôi sẽ nhấp một ngụm cacao đường nóng trên bàn. Từ đó tới nay, tôi không bao giờ phải dùng đồ ngọt để thấy thoải mái nữa.
 
 Tôi sẽ không bao giờ bỏ bữa sáng vì tôi biết buổi sáng là thời gian tôi làm việc hiệu quả nhất trong ngày. Và tôi cần phải cho mình đủ năng lượng để xử lý phần lớn công việc. Một lưu ý nhỏ là nếu bạn ăn bữa sáng quá nhiều thì sẽ có khả năng bị đầy bụng và điều này khó chịu ngang với 
 
