@@ -38,8 +38,8 @@ Dưới đây là **12 trạng thái của burnout** theo mô tả của Herbert
 8. **Thay đổi hành vi**. Những người xung quanh có thể dễ dàng nhận ra sự thay đổi của bạn.
 9. **Cảm thấy mình vô giá trị, mọi thứ vô nghĩa.**
 10. **Cảm thấy trống rỗng**. Bạn thấy mệt mỏi, chán nản và có xu hướng vượt qua điều này bằng các hoạt động kích thích như ăn quá nhiều, quan hệ tình dục, rượu hoặc ma túy.
-11. **Trầm cảm**. Bạn cảm thấy lạc lối, kiệt sức và cuộc sống không không lối thoát.
-12. **Cháy sạch** (Burnout) là giai đoạn cuối cùng. Suy sụp toàn bộ về tinh thần và thể chất.
+11. **Phiền muộn**. Bạn cảm thấy lạc lối, kiệt sức và cuộc sống không không lối thoát.
+12. **Cháy sạch** (Burnout) là giai đoạn cuối cùng. Suy sụp toàn bộ về tinh thần và thể chất. Có thể dẫn tới các bệnh lý như trầm cảm, rối loạn lo âu ...
 
 Nguồn: https://www.inc.com/jessica-stillman/the-12-stages-of-burnout-according-to-psychologist.html
 
@@ -57,7 +57,7 @@ Còn tác hại thì một khi bạn đã phụ thuộc vào một thứ để d
 
 Bên cạnh đó, lượng đường cùng các chất hóa học khác trong những đồ ăn chế biến tăng một cách đột ngột vào máu sẵn sẽ khiến một vài hormones phải hoạt động nhiều, có thể dẫn tới quá tải và gây bệnh. Tôi nghĩ dùng những từ như thừa cân, béo phì, tiểu đường, máu nhiễm mỡ, huyết áp cao,... sẽ giúp bạn dễ hình dung hơn về vấn đề.
 
-Trước những tác hại không thể gánh nổi như vậy thì tôi đã sửa chế độ ăn của mình, bổ sung thêm đường vào bữa sáng và không ngờ là nó lại hiệu quả. Lúc cần đường, tôi sẽ nhấp một ngụm cacao đường nóng trên bàn. Từ đó tới nay, tôi không bao giờ phải dùng đồ ngọt để thấy thoải mái nữa.
+Trước những tác hại không thể gánh nổi như vậy thì tôi đã sửa chế độ ăn của mình, **bổ sung thêm đường vào bữa sáng** và không ngờ là nó lại hiệu quả. Lúc cần đường, tôi sẽ nhấp một ngụm **cacao đường nóng** trên bàn. Dùng đồ nóng sẽ giúp tôi uống đường ít lại. Từ đó tới nay, tôi không bao giờ phải dùng đồ ngọt để thấy thoải mái nữa.
 
 Tôi sẽ không bao giờ bỏ bữa sáng vì tôi biết buổi sáng là thời gian tôi làm việc hiệu quả nhất trong ngày. Và tôi cần phải cho mình đủ năng lượng để xử lý phần lớn công việc. Một lưu ý nhỏ là nếu bạn ăn bữa sáng quá nhiều thì sẽ có khả năng bị đầy bụng và điều này khó chịu ngang với 
 
@@ -66,6 +66,20 @@ Tôi sẽ không bao giờ bỏ bữa sáng vì tôi biết buổi sáng là th�
 Tôi nghĩ mình đã thiếu ngủ một thời gian dài trước khi rơi vào trạng thái burnout. Việc trở nên lo lắng, bồn chồn không rõ lý do tại sao đều là hệ quả của việc não bộ không được nghỉ ngơi đủ.
 
 Nếu bạn muốn tìm hiểu thêm, tôi khuyến khích bạn đọc cuốn [Why you sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) của Matt Walker để hiểu thêm về quá trình tái tạo của bộ não khi bạn chìm vào giấc ngủ. Tôi nghĩ đấy được coi là điều kỳ diệu mà mẹ thiên nhiên đã ban tặng cho loài người. Ngoài ra, nếu bạn không có thời gian, bài talk [Giấc ngủ là siêu năng lực của bạn - Sleep is your superpower](https://www.youtube.com/watch?v=5MuIMqhT8DM) của chú ấy trên Youtube cũng cung cấp khá nhiều thông tin hữu ích. Tôi xem video thấy hay quá nên mới đọc sách.
+
+## Nếu bạn thấy không tài nào ngủ nổi thì đây là cách mà tôi đã dùng
+
+Điều mà tôi nhận ra là tôi khó ngủ là do **suy nghĩ trong đầu quá nhiều, tim đập nhanh, hơi thở không đều nhau và hơi nông**. 
+
+### Đọc một cuốn sách siêu chán
+
+Tôi sẽ kiếm một cuốn sách siêu chán và nội dung đơn giản, mở nó ra đọc khi nào tôi khó ngủ. Cách này là do tôi tự khám phá ra khi nằm mãi không ngủ được và lôi tạm một cuốn sách ra đọc để giết thời gian. 
+
+Ngồi tầm 15-30 phút là tôi có thể tập trung vào cuốn sách. Thay vì suy nghĩ lộn xộn thì giờ thì đầu chỉ có lẩm bẩm nội dung sách thôi. Một quyển sách **trung tính, siêu chán**. Lý do cần trung tính và siêu chán là để cuốn sách ấy không mang lại bất kỳ cảm xúc nào cho tôi. Mọi cảm xúc dù tiêu cực hay tích cực đều không có lợi cho tôi lúc này. Sau đó, tôi đã đọc nó trong đầu như tụng kinh cho tới khi mình mệt quá không đọc nổi và lăn ra ngủ.
+
+### Thiền
+
+Tôi cũng không nhớ làm cách nào mà tôi lại tìm đến thiền, chắc do tôi từng đọc sách của thầy Thích Nhất Hạnh. Trong lúc đầu óc rối bời như này, tôi không đời nào ép mình phải ngồi khoanh chân, thẳng lưng cả. **Thiền buông thư** là một trong những sự lựa chọn tuyệt vời. Chỉ cần thả mình trên chiếc giường êm ái, nhắm mắt lại và bật audio hướng dẫn thiền lên là tôi đã thấy mình ổn định hơn. Ngoài ra, còn có thiền hành cũng rất thú vị. Nguồn tư liệu tôi dùng chủ yếu từ Làng Mai và kênh [Youtube](https://www.youtube.com/channel/UComQ5oE9MzuGrjfA0DAdmBg) của thầy Minh Niệm.
 
 ## Nghỉ ngơi một thời gian
 
