@@ -2,7 +2,9 @@
 
 Tôi từng học một khóa tâm lý trong tình yêu, đọc các cuốn sách về tình yêu của Elaine N. Aron, nhà tâm lý học người Mỹ và xem các bài nói của Alain de Botton, một nhà Triết học và tác giả người Anh. Tôi nghĩ mình đã làm tất cả để chuẩn bị trước khi bước vào đường tình. Vậy mà tôi vẫn thấy mình rối tung cả lên.
 
-Tôi nhận ra rằng có nhiều bạn nam xung quanh mình khiến tôi có một lợi thế mà không bạn nam nào có nổi là trở thành "chuyên gia tư vấn tâm lý tình cảm" mỗi khi bạn bè có chuyện. Tôi không nghĩ là mình có nhiều kinh nghiệm tình yêu nhưng việc trả lời câu hỏi của bạn bè và giải thích tâm lý của những người trong cuộc khiến tôi nhận ra những thứ mình đọc lúc xưa đều trở nên có giá trị. Lại thêm một sự kiểm chứng sách viết về những trường hợp mà tôi chưa trải nghiệm.
+Tôi nhận ra rằng có nhiều bạn nam xung quanh mình khiến tôi có một lợi thế mà không bạn nam nào có nổi là trở thành "chuyên gia tư vấn tâm lý tình cảm" mỗi khi bạn bè có chuyện. 
+
+Tôi không nghĩ là mình có nhiều kinh nghiệm tình yêu nhưng việc trả lời câu hỏi của bạn bè và giải thích tâm lý của những người trong cuộc khiến tôi nhận ra những thứ mình đọc lúc xưa đều trở nên có giá trị. Lại thêm một sự kiểm chứng sách viết về những trường hợp mà tôi chưa trải nghiệm.
 
 Sau đây là một vài điều tôi học được về tình yêu. Hi vọng sẽ giúp đỡ cho ai đó.
 
@@ -12,7 +14,7 @@ Khi yêu, người ta thường cố đưa ra những tiêu chí, ví dụ cô �
 
 Nếu đi vào quá nhiều tiểu tiết, có lẽ bạn sẽ lỡ mất nhiều cơ hội đấy. Mải miết đi tìm cô gái hay anh chàng thoả mãn mọi tiêu chí có thể khiến bạn mệt mỏi. Hoặc giả sử may mắn bạn tìm được người ấy. Câu chuyện tình yêu sẽ ra sao khi hai tháng sau bạn thay đổi tiêu chuẩn của mình hoặc bạn phát hiện bạn đánh giá nhầm và cô ấy không còn phù hợp với tiêu chuẩn nào đó? Ví dụ, bạn bỗng dưng đổi ý thích một cô cao mét 7 và cô ấy chỉ cao có mét 6 thôi.
 
-# Tình yêu là cho đi, chứ không chỉ là nhận lại
+# Tình yêu là cho đi
 
 Để khiến một cô gái có ấn tượng với mình và yêu mình, cách hiệu quả nhất bạn nên làm đó là cho đi tình yêu. Bạn cần cho cô ấy thấy tiềm năng của bạn thông qua sự quan tâm, sự chỉnh chu và một chút tinh tế.
 
