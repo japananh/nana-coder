@@ -6,7 +6,7 @@ Tôi nhận ra rằng có nhiều bạn nam xung quanh mình khiến tôi có m�
 
 Sau đây là một vài điều tôi học được về tình yêu. Hi vọng sẽ giúp đỡ cho ai đó.
 
-# Phỏng vấn tuyển dụng
+# Vòng gửi xe
 
 Khi yêu, người ta thường cố đưa ra những tiêu chí, ví dụ cô ấy phải cao cỡ mét 6, xinh như này, học thức như kia, giá trị sống ... Tôi nghĩ đưa ra tiêu chí là hoàn toàn hợp lý vì bạn cần phải biết mình muốn gì trước. Cảm xúc là thứ nhất thời, càng về sau bạn sẽ càng thấy giá trị sống và sự hòa hợp mới là thứ khiến tình yêu bền vững.
 
