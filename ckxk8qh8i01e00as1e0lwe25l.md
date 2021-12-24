@@ -89,3 +89,8 @@ var b float64 = 2.2
 var m float64 = min(a, b) // not need to pass any type of argument here.
 fmt.Println(m) // 1.1
 ```
+
+# References
+
+- https://go.dev/blog/go1.18beta1
+- https://www.youtube.com/watch?v=35eIxI_n5ZM
