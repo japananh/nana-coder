@@ -8,7 +8,7 @@ Sau đây là một vài lý do của tôi. Hi vọng chúng sẽ giúp ích cho
 
 # Đọc để giải quyết vấn đề
 
-Tôi nghĩ mình đã đọc vô định theo kiểu *"trưởng giả học làm sang"* trong rất nhiều năm trời cho tới ngày tôi nảy ra cái ý tưởng đọc sách để giải quyết vấn đề. 
+Tôi nghĩ mình đã đọc vô định theo kiểu *"trưởng giả học làm sang"* trong rất nhiều năm trời cho tới ngày tôi nảy ra cái ý tưởng **đọc sách để giải quyết vấn đề**. 
 
 Lý do là tôi quá bận, quá mệt với việc bơi giữa một đại dương sách mà cuốn nào cũng được tung hô là best-seller. Chả biết đọc những cuốn KINH ĐIỂN đó có khiến mình thông minh lên không, tôi chỉ biết là tôi đã thấy rất KINH KHỦNG.
 
@@ -26,7 +26,9 @@ Khi đọc cùng một thể loại sách, tôi rất dễ bị bias và ngộ n
 
 Tuy nhiên, cuộc sống không chỉ có mỗi màu hồng. Nó có cả thiện và ác. Thậm chí, nhiều khi thiện ác lẫn lội. Và nếu chỉ đọc những cuốn sách êm đềm kia, tôi nghĩ mình sẽ chả bao giờ có đủ linh hoạt để ứng phó với sự phức tạp của cuộc sống hiện đại.
 
-Việc lao mình vào đọc những cuốn sách mô tả hiện thực khắc nghiệt, nơi cái xấu ở khắp mọi nơi như Hẹn gặp lại ở trên kia hay Tội ác và trừng phạt sẽ khiến tôi có một cái nhìn khác về cuộc sống. Tôi bớt mộng mơ đi và thông cảm cho những ai đã từng làm tổn thương tôi.
+Việc lao mình vào đọc những cuốn sách mô tả hiện thực khắc nghiệt, nơi cái xấu ở khắp mọi nơi như **Hẹn gặp lại ở trên kia** hay **Tội ác và trừng phạt** sẽ khiến tôi có một cái nhìn khác về cuộc sống. 
+
+Lúc đầu, tôi thấy rất khổ sở, khó chịu và chỉ muốn vứt sách đi vì cuộc sống của những nhân vật trong đấy vượt quá sức chịu đựng của mình. Nhưng càng về sau, tôi thấy mình bớt mộng mơ đi và thông cảm cho những ai đã từng làm tổn thương tôi.
 
 # Đọc từ dễ lên khó
 
