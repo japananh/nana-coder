@@ -8,7 +8,7 @@ Sau đây là một vài lý do của tôi. Hi vọng chúng sẽ giúp ích cho
 
 # Đọc để giải quyết vấn đề
 
-Tôi nghĩ mình đã đọc vô định trong rất nhiều năm trời cho tới ngày tôi nảy ra cái ý tưởng đọc sách để giải quyết vấn đề. 
+Tôi nghĩ mình đã đọc vô định theo kiểu *"trưởng giả học làm sang"* trong rất nhiều năm trời cho tới ngày tôi nảy ra cái ý tưởng đọc sách để giải quyết vấn đề. 
 
 Lý do là tôi quá bận, quá mệt với việc bơi giữa một đại dương sách mà cuốn nào cũng được tung hô là best-seller. Chả biết đọc những cuốn KINH ĐIỂN đó có khiến mình thông minh lên không, tôi chỉ biết là tôi đã thấy rất KINH KHỦNG.
 
