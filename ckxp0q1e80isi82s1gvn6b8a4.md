@@ -16,6 +16,6 @@ Tôi mò lên google search thử thì phát hiện ra hai cách dùng markdown 
 
 - Cách 2: Dùng tool convert markdown sang định dạng text của Medium, rồi copy vào editor. Bạn có thể tham khảo tool [markdown-to-medium](http://markdown-to-medium.surge.sh/).
 
-Vốn là một đứa lười biếng nên tôi lại google tiếp để tìm cách chạy script tự động post bài từ repository trên Github. Tôi tìm được 2 thư viện viết sẵn là [md-publisher](https://github.com/andremueller/md-publisher) và [mdm](https://github.com/fanderzon/markdown-to-medium-tool).
+Vốn là một đứa lười biếng, tôi ngồi mò tiếp để viết script tự động post bài từ repository trên Github lên Medium. Tôi tìm được 2 thư viện là [md-publisher](https://github.com/andremueller/md-publisher) và [mdm](https://github.com/fanderzon/markdown-to-medium-tool).
 
 Bài hôm nay tạm dừng ở đây. Mai tôi sẽ viết tiếp về phần chạy hai thư viện này.
