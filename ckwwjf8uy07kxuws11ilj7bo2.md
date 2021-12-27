@@ -156,8 +156,8 @@ Câu hỏi nên rõ ràng, chi tiết vào vấn đề mình cần hỏi. Ví d�
 ## Podcasts
 
 - [Women in Data science](https://open.spotify.com/show/0eaFZXUh8qys3c0Wr3vrA3): podcast phỏng vấn nhiều nhà khoa học dữ liệu, chia sẻ công việc, lời khuyên và bài học kinh nghiệm của họ với Giáo sư Margot Gerritsen từ Đại học Stanford.
-- [For your innovation (FYI)](): nói về sự giao thoa giữa công nghệ và đầu tư
-- [Lex Fridman](https://www.youtube.com/c/samharrisorg): phỏng vấn rất nhiều người giỏi trong nhiều ngành nghề khác nhau, tập trung vào khoa học máy tính. Đây là một trong những kênh yêu thích của tôi và chính anh Lex cũng là nguồn cảm hứng cho tôi tập tạ.
+- [For your innovation (FYI)](https://podcasts.apple.com/us/podcast/fyi-for-your-innovation/id1271691895): nói về sự giao thoa giữa công nghệ và đầu tư
+- [Lex Fridman](https://lexfridman.com/podcast/): phỏng vấn rất nhiều người giỏi trong nhiều ngành nghề khác nhau, tập trung vào khoa học máy tính. Đây là một trong những kênh yêu thích của tôi và chính anh Lex cũng là nguồn cảm hứng cho tôi tập tạ.
 - [Sam Harris](https://www.youtube.com/c/samharrisorg)
 
 ## Websites
