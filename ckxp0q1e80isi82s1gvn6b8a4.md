@@ -1,10 +1,10 @@
 ## Viết blog trên Medium - Phần 1
 
-Hầu hết bạn bè tôi đều đọc bài trên **Medium** và chính tôi cũng thấy trang này khá thú vị. Đã quen viết **markdown** (**md**) trên **Hashnode** và vốn là một đứa ngây thơ nên tôi đã nghĩ chắc editor của Medium cũng xịn nên copy nguyên md vào và nhấn nút **Publish**.
+Hầu hết bạn bè tôi đều đọc bài trên **Medium** và chính tôi cũng thấy trang này khá thú vị. Đã quen viết **markdown** (**md**) trên **Hashnode** và **Notion** nên tôi đã nghĩ chắc editor của Medium cũng hỗ trợ markdown nên copy nguyên text vào và nhấn nút **Publish**.
 
 ![Screenshot from 2021-12-28 01-04-42.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1640628381610/u7m7BaHtx.png)
 
-Ai ngờ editor xịn quá lại không nhận markdown. Có một sự thất vọng không hề nhẹ. =))
+Ai ngờ editor xịn quá lại copy vào ký tự gì là hiện thị giống hệt. Có một sự thất vọng không hề nhẹ. =))
 
 ![Screenshot from 2021-12-28 01-05-10.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1640628364752/cGNpJS3kN.png)
 
