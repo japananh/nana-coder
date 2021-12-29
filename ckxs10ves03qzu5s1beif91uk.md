@@ -1,12 +1,12 @@
 ## IELTS Speaking Handbook - Chapter 2 - Understand the exam
 
-Kiên Trần là người có ảnh hướng lớn nhất tới lối tư duy học tiếng anh của tôi. Tôi nghĩ muốn giỏi tiếng anh hay bất kỳ lĩnh vực gì, đầu tiên, bạn phải vượt qua được trở ngại niềm tin, tức là bạn phải THỰC SỰ TIN là mình có thể làm được. 
+[Kiên Trần](https://www.facebook.com/kientranhandbook) là người có ảnh hướng lớn nhất tới lối tư duy học tiếng anh của tôi. Tôi nghĩ muốn giỏi tiếng anh hay bất kỳ lĩnh vực gì, đầu tiên, bạn phải vượt qua được trở ngại niềm tin, tức là bạn phải **THỰC SỰ TIN** là mình có thể làm được. 
 
-Đọc sách Kiên sẽ giúp bạn TẨY NÃO, khiến bạn tư duy tốt hơn và không còn phải HỌC tiếng anh một ngày nào. Sách không dùng các ví dụ khô khan như các giáo trình tiếng anh thông thường. Với hiểu biết phong phú về nhiều lĩnh vực khác nhau, mỗi cuốn sách của Kiên là một thế giới tràn đầy màu sắc, năng động, và thể hiện rõ tinh thần Bốn chấm không. 
+Đọc sách Kiên sẽ giúp bạn **TẨY NÃO**, khiến bạn tư duy tốt hơn và không còn phải HỌC tiếng anh một ngày nào. Sách không dùng các ví dụ khô khan như các giáo trình tiếng anh thông thường. Với hiểu biết phong phú về nhiều lĩnh vực khác nhau, mỗi cuốn sách của Kiên là một thế giới tràn đầy màu sắc, năng động, và thể hiện rõ tinh thần Bốn chấm không. 
 
 Tôi đã đọc hết tất cả các sách của anh. Tuy nhiên, không phải nhận định nào của tác giả tôi cũng đồng tình, tôi sẽ chắt lọc ra những cái phù hợp với mình và bỏ qua toàn bộ cái còn lại.
 
-Nào giờ thì chúng ta sẽ cùng nhau thưởng thức một phần chương 2 của cuốn sách số 8 - IELTS Speaking Handbook - Understand the exam 
+Nào giờ thì chúng ta sẽ cùng nhau thưởng thức một phần chương 2 của cuốn sách số 8 - **IELTS Speaking Handbook - Understand the exam **
 
 # Nội dung sách
 
