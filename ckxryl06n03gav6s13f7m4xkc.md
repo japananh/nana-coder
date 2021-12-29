@@ -12,8 +12,6 @@ The `z-index` property specifies the stack order of an element.
 
 - If two positioned elements overlap without a z-index specified, the element positioned last in the HTML code will be shown on top.
 
-[Codepen](https://codepen.io/pen/?template=qBPxjVp)
-
 ![Screenshot from 2021-12-30 02-33-25.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1640806426481/dp8DGMhBp.png)
 
 ```html
@@ -128,3 +126,5 @@ Even box 4 has z-index: 4 is greater than box 2 (z-index: 3), box 2 still on top
 }
 
 ```
+
+Code demo: [Codepen](https://codepen.io/pen/?template=qBPxjVp)
