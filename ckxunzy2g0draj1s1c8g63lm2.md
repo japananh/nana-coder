@@ -18,7 +18,7 @@ Không thể tin nổi là tôi lại hì hục ngồi vẽ. Một cô bé dễ 
 
 Để kết thúc cái bài viết loằng ngoằng đậm chất "Suy nghĩ trên mây", tôi sẽ trích ra mấy dòng thơ tôi viết cho mình nhân cái ngày "hớt bờ rếch".
 
-" Cô bé họa sỹ
+"Cô bé họa sỹ
 
 Vạn sự như ý
 
