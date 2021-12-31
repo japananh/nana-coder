@@ -2,7 +2,7 @@
 
 Hôm nay là ngày cuối cùng của năm 2021 và cũng là ngày thích hợp để viết một bài tổng kết lại những điều mình đã làm trong năm 2021.
 
-Cuộc sống với đại dịch của tôi không khác gì so với lúc bình thường. Việc được remote khiến tôi được vừa code vừa ôm cún ở nhà. Bên cạnh đó, vì không phải tiếp xúc với khói bụi và tắc đường nên làn da của tôi láng bóng và sáng hẳn ra.
+Cuộc sống với đại dịch của tôi không khác gì so với lúc bình thường. Việc được WFH khiến tôi vừa code, vừa ôm cún ở nhà. Bên cạnh đó, vì không phải tiếp xúc với khói bụi và tắc đường nên làn da của tôi láng bóng và sáng hẳn ra.
 
 Năm 2021 có thật nhiều điều bất ngờ.
 
