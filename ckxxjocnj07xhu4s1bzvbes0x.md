@@ -6,7 +6,7 @@ Mọi người có gợi ý gì cho thử thách sắp tới thì comment vào b
 
 Trong bài này, tôi sẽ trích ra một vài ghi chú từ cuốn [How emotions are made](https://www.goodreads.com/book/show/23719305-how-emotions-are-made) của [Lisa Feldman Barrett](https://lisafeldmanbarrett.com/). Đây là cuốn sách đầu tiên của năm 2022.
 
-Tôi đọc cuốn này vì muốn hiểu hơn về cảm xúc. Tôi không nghĩ những lời khuyên *gác cảm xúc sang một bên* tới từ sự thiếu hiểu biết hơn là từ sự thấu hiểu. Đây là ví dụ điển hình của xu hướng né tránh những thứ mà bản thân chưa rõ và che đậy nó bằng từ ngữ hoa mỹ.
+Tôi đọc cuốn này vì muốn hiểu hơn về cảm xúc. Tôi nghĩ lời khuyên *Gác cảm xúc sang một bên* tới từ sự thiếu hiểu biết hơn là từ sự thấu hiểu. Đây là ví dụ điển hình của xu hướng *né tránh những thứ mà bản thân chưa rõ và che đậy nó bằng từ ngữ hoa mỹ*.
 
 # The theory of constructed emotions vs The classical view
 
