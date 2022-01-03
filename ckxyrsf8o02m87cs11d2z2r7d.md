@@ -1,6 +1,6 @@
 ## Khi tôi chả muốn viết cái gì
 
-Năm mới bắt đầu bằng chuyến du lịch tới thăm nha sỹ, trong lúc chờ đợi tới lượt mình thì tôi đã đọc xong 3 cuốn tạp chí về thời trang. Lâu lắm tôi không đọc tạp chí. Tôi thực sự ấn tượng bởi bộ suy tập của hãng Uniqlo, từng màu sắc và kiểu dáng đều rất nhã nhặn, đơn giản và hài hòa. Tôi nghĩ có khi nào tôi sẽ từ bỏ cái màu hồng để chuyển sang một tông màu nào khác? Như màu xanh của bầu trời chẳng hạn.
+Năm mới bắt đầu bằng chuyến du lịch tới thăm nha sỹ, trong lúc chờ đợi tới lượt mình thì tôi đã đọc xong 3 cuốn tạp chí về thời trang. Lâu lắm tôi không đọc tạp chí. Tôi thực sự ấn tượng bởi bộ sưu tập của hãng Uniqlo, từng màu sắc và kiểu dáng đều rất nhã nhặn, đơn giản và hài hòa. Tôi nghĩ có khi nào tôi sẽ từ bỏ màu hồng để chuyển sang một tông màu khác? Màu xanh của bầu trời chẳng hạn.
 
 Hồi bé tôi lười đánh răng và hậu quả là tôi có nhiều răng sâu. Tôi cũng chả quan tâm lắm cho tới khi trưởng thành, tôi rất hay phải đi nha sỹ vì vấn đề răng. Thật khó cho một đứa trẻ để hiểu rằng một chút bất cẩn tuổi thơ sẽ để lại hậu quả lâu dài suốt cả đời. Nếu ngày nào đó, tôi được chăm sóc một đứa trẻ, nhất định tôi sẽ dạy bé về nhân quả.
 
