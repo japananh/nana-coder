@@ -1,4 +1,4 @@
-## Khi tôi chả biết viết gì
+## Khi tôi chả muốn viết cái gì
 
 Năm mới bắt đầu bằng chuyến du lịch tới thăm nha sỹ, trong lúc chờ đợi tới lượt mình thì tôi đã đọc xong 3 cuốn tạp chí về thời trang. Lâu lắm tôi không đọc tạp chí. Tôi thực sự ấn tượng bởi bộ suy tập của hãng Uniqlo, từng màu sắc và kiểu dáng đều rất nhã nhặn, đơn giản và hài hòa. Tôi nghĩ có khi nào tôi sẽ từ bỏ cái màu hồng để chuyển sang một tông màu nào khác? Như màu xanh của bầu trời chẳng hạn.
 
