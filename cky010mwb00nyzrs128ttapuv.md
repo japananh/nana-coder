@@ -1,4 +1,4 @@
-## Thơ thẩn - Lẩm cẩm - Già - Bay
+## Thơ thẩn - Lẩm cẩm - Lão - Phi
 
 Viết là cách để lôi ra một con người khác trong mình. Hôm nay tôi lôi ra được một cô thơ thẩn. Không biết mai mốt còn lôi ra được nhân vật nào.
 
