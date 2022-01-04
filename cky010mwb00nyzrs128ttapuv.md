@@ -15,7 +15,7 @@ Gõ hoài cửa chẳng mở
 Ăn vận lếch thếch
 Trông như con ếch
 Đầu óc rỗng tuếch
-Trèo cao có chết
+Trèo cao có chết.
 ```
 
 ```md
@@ -36,12 +36,21 @@ Năm này em mấy thu?
 Nghịch vài con bọ
 Đau hết cả sọ
 Mà bọ vẫn ngọ
-Thì mình ngồi rọ
+Thì mình ngồi rọ!
 ```
 
 ```md
 Bốn chân nằm gối
 Hay gào trời tối
 Cả ngày thấy nằm
-Chẳng ai phản đối
+Chẳng ai phản đối.
 ```
+
+```md
+Viết vài mã Go
+Thấy não mình nâu
+Thì biết còn lâu
+Chương trình mới chạy.
+```
+
+Còn nữa ... Hí hí ...
