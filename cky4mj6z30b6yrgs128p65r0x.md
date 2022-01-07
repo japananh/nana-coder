@@ -2,7 +2,9 @@
 
 Hôm nay, tôi nghe podcast [The Science of Making & Breaking Habits](https://www.youtube.com/watch?v=Wcs2PFz5q6g) của bác Huberman. Ghi lại được vài ý thì kéo xuống đã thấy một comment của Gabriel Surija tóm tắt hết cái video dài gần 2 tiếng. Thôi thì đành like, comment và share để lần sau bạn ấy còn tiếp tục chăm chỉ. Các phương pháp trong video này rất hay và thiết thực. Bạn nào quan tâm mà chưa có thời gian nghe thì có thể đọc phần tóm tắt của bạn kia nhé.
 
-Nhân chủ đề về thói quen, viết dài quá thì lười nên tốt hơn hết là chọn mấy chữ ngắn gọn. Mỗi đoạn mô tả một thói quen xấu mà tôi hi vọng trong năm 2022 sẽ vượt được. Tập thơ này tên là **Lạc**. Còn cái title của post là Lạc lạc vì hashnode ko cho tôi đặt tên ngắn có một chữ. Thứ tự các bài đều rất ngẫu hứng.
+Nhân chủ đề về thói quen, viết dài quá thì lười nên tốt hơn hết là chọn mấy chữ ngắn gọn. Tập thơ này tên là **Lạc**. Mỗi đoạn mô tả một thói quen xấu mà tôi hi vọng trong năm 2022 sẽ vượt được. Còn cái title của post là Lạc lạc vì hashnode ko cho tôi đặt tên ngắn có một chữ. Thứ tự các bài đều rất ngẫu hứng.
+
+Nào thôi nay mình lạc.
 
 # Lạc lạc
 
