@@ -70,6 +70,12 @@ Nếu bạn muốn master Vue thì đây chính là nơi đáng tin cậy. Nhi�
 
 ## 200lab Edu
 
+Link: https://200lab.io/
+
+Tôi học [Khóa Golang for scalable backend](https://200lab.io/khoa-hoc/khoa-hoc-golang-food-delivery-backend) ở trang này. Đây là website dạy lập trình dùng tiếng việt thứ hai tôi từng học. Danh tiếng của anh Việt Trần - mentor của khóa tôi học rất lớn và tôi cũng không kiếm được khóa bằng tiếng anh nào tốt hơn nên tôi đã học thử.
+
+Đây là một khóa học cô đặc nhiều thứ mà tôi đã học từ tháng 9 năm ngoái tới giờ vẫn chưa ngấm hết nội dung. Dù nhiều kiến thức mới với bản thân nhưng tôi vẫn thấy vô cùng hào hứng về những thứ được học. Đó cũng chính là lý do đây là trang dạy lập trình tiếng việt duy nhất tôi thích.
+
 # Những websites chỉ nên học phần nội dung free
 
 ## CodersX
