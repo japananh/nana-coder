@@ -43,3 +43,7 @@ Some people avoid sugar and think it makes them fat. That's a myth. A little sug
 # Keep your mouth clean
 
 Some people are very busy or lazy so they don't even put a few minutes to clean their mouths. Early meetings make people feel annoyed because of bad breath. Keeping your mouth clean is not only a personal norm but a **SOCIAL** norm.
+
+An [article](https://www.healthline.com/health/should-you-brush-your-teeth-before-or-after-breakfast#:~:text=Waiting%2030%20minutes%20to%20an,especially%20after%20having%20acidic%20foods.) in healthlin.com show that
+
+> Waiting 30 minutes to an hour after eating to brush your teeth is the best way to ensure that you're protecting your teeth and not tampering with your enamel. The American Dental Association recommends you wait 60 minutes after eating before you brush, especially after having acidic foods.
