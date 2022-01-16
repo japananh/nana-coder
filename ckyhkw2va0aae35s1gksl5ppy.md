@@ -1,6 +1,6 @@
 ## Ghi chú về cuốn Swipe To Unlock - Phần 1
 
-Tôi được giới thiệu cuốn Swipe To Unlock trong podcast [Bốn chấm không](https://open.spotify.com/show/0rbO8LhEBKGx2nsZ8ABCxG), một podcast truyền cảm hứng về công nghệ. Bằng việc trả lời các câu hỏi về chiến lược kinh doanh của thế giới công nghệ, 3 anh chàng PM (Project Manager) tới từ ba gã khổng lồ Facebook, Google và Microsoft đã kể cho người đọc những câu chuyện thú vị. 
+Tôi được giới thiệu cuốn Swipe To Unlock trong podcast [Bốn chấm không](https://open.spotify.com/show/0rbO8LhEBKGx2nsZ8ABCxG), một podcast truyền cảm hứng về công nghệ. Bằng việc trả lời các câu hỏi về chiến lược kinh doanh của thế giới công nghệ, ba anh chàng PM (Project Manager) tới từ ba gã khổng lồ Facebook, Google và Microsoft đã kể cho người đọc những câu chuyện kinh doanh thú vị. 
 
 Nếu bạn chưa có thời gian nghe thử Bốn chấm không, tôi đã tóm tắt lại những lời khuyên từ các khách mời trong mỗi tập ở [đây](https://nanacoder.hashnode.dev/bon-cham-khong). 
 
