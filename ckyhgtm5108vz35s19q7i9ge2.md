@@ -12,5 +12,3 @@ Tôi vẫn thấy mình cực kỳ mất tập trung và không thoải mái khi
 
 Chia sẻ nỗi buồn chỉ giúp bản thân thoát ra khỏi sự tệ hại lúc đấy, như cốc cà phê khiến người thiếu ngủ tỉnh táo tức thì. Nhưng melatonine vẫn còn nguyên đó, tích tụ ngày này sang ngày khác, khiến não bộ mệt mỏi và chỉ khi đi ngủ, chúng mới được giải phóng. Nỗi buồn cũng như melatonin, chỉ có bạn mới làm chúng biến mất, người khác bó tay.
 
-Những người thuộc tuýp **Gấu mẹ vĩ đại** luôn tạo cảm giác ấm áp, gần gũi cho môi trường xung quanh. Mọi người đều thích ở bên cạnh họ vì họ sẽ che chở, bảo vệ, giúp đỡ một cách hào phóng. Tuy nhiên, điểm bất lợi của điều này là có khả năng bạn sẽ lười biếng và ỷ lại hơn. Tôi thích làm một người nghiêm khắc, chăm chỉ và quan tâm có chừng mực tới các vấn đề xã hội.
-
