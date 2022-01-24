@@ -1,4 +1,4 @@
-## Hàm int trong Go
+## Hàm init trong Go
 
 Bài này ghi lại những thứ tôi hiểu về hàm init trong Go.
 
