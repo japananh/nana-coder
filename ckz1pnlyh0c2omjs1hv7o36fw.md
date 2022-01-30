@@ -9,3 +9,5 @@ Tôi thường không hứng thú lắm với nghe tiếng việt. Lý do là t�
 Mỗi tập đề cập tới một vấn đề khác nhau. Bạn không nhất thiết phải xem theo thứ tự. Cô Vân đưa ra những lời khuyên thiết thực, rõ ràng và cách giải thích khoa học, số liệu cũng có kèm dẫn chứng khiến tôi thấy tin tưởng. Nhờ đó, tôi đã tự mình xử lý một vài khó khăn trong công việc.
 
 Bên cạnh đó, trang web nguyenphivan.com còn có nhiều khóa học kỹ năng bổ ích cho những bạn độ tuổi đi làm. Bạn có thể tham gia học miễn phí ở [đây](https://www.nguyenphivan.com/lnd-center).
+
+Một điểm đáng chú ý nữa là trang phục, đầu tóc và khuôn mặt của cô. Bộ quần áo đen, lấy điểm nhấn là chiếc khăn lụa. Mái tóc đen, dài, đậm chất phụ nữ Việt Nam, cùng gương mặt trang điểm cực kỳ nhẹ nhàng. Thật là đơn giản và chuyên nghiệp.
