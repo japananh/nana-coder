@@ -2,7 +2,7 @@
 
 Tôi bắt đầu nghe podcast từ năm 2016 vào thời gian rảnh trên xe bus và lúc làm việc nhà như một thú vui giết thời gian. Không ngờ là sau nhiều năm nhìn lại, việc làm này lại đem tới thật nhiều ích lợi. Ngoài podcasts của hai nhân vật quen thuộc tôi hay nhắc tới là Nhà khoa học máy tính [Lex Fridman](https://lexfridman.com/podcast/) và Nhà khoa học thần kinh [Huberman](https://hubermanlab.com/) ra thì năm nay tôi đã thử một vài podcasts khác cũng rất thú vị. Sau đây, tôi xin chia sẻ nó cho các bạn. Hi vọng là chúng có ích với bạn.
 
-Source: https://www.nguyenphivan.com/podcast
+Nguyễn Phi Vân's Podcast: https://www.nguyenphivan.com/podcast
 
 Tôi thường không hứng thú lắm với nghe tiếng việt. Lý do là tôi muốn dành nhiều thời gian phát triển khả năng nghe tiếng anh nhiều hơn. Tuy nhiên, sau lần tình cờ một bài nói chuyện của cô Nguyễn Phi Vân thì tôi phải tìm bằng được podcast của cô để nghe cho bằng hết các lời khuyên nghề nghiệp. 
 
