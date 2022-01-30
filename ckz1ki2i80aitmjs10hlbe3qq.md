@@ -10,4 +10,4 @@ Raxcolnicov vẫn rất cứng đầu, không hề nhận lỗi dù anh bạn c�
 
 Nhiều chi tiết vẫn khiến tôi chưa lý giải được hành vi của nhân vật. Ví dụ, tại sao, sau phát đầu bắn trượt, súng còn đạn mà Dunia không bắn thêm phát vào giữa sọ Xvidrigailov, tên định cưỡng hiếp mình? Tại sao gã Xvidrigailov lại thả Dunia ra rồi sau đó tự tử trong khi lão đã đi một quãng đường dài, mưu tính để chiếm đoạt nàng? 
 
-Tôi không chắc là mình thích cuốn sách này. Chỉ có duy nhất một điều tôi thấy là nội dung thật lôi cuốn. Bạn chỉ có thể hiểu chuyện gì xảy ra khi đọc liên tục từng trang, nhảy cóc sẽ khó đoán được chuyện gì đang và sẽ xảy ra.
+Tôi không chắc là mình thích cuốn sách này. Chỉ có duy nhất một điều tôi thấy là nội dung thật lôi cuốn. Bạn chỉ có thể hiểu chuyện gì xảy ra khi đọc liên tục từng trang, nhảy cóc sẽ khó đoán được chuyện gì đã, đang và sẽ xảy ra.
