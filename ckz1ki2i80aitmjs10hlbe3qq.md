@@ -1,5 +1,7 @@
 ## Đầu năm đọc gì? - Phần 1: Tội ác và trừng phạt
 
+**Đầu năm đọc gì?** là series nhỏ trong thử thách **100 ngày viết lách** của tôi. Nội dung viết về những cuốn sách tôi đã đọc trong tháng đầu tiên của năm 2022.
+
 Năm nay, tôi sẽ chăm chỉ hơn để hoàn thành chỉ tiêu 25 cuốn. [Tội ác và trừng phạt](https://www.goodreads.com/book/show/23288240-t-i-c-v-tr-ng-ph-t) của nhà văn Dostoevsky là cuốn khởi đầu.
 
 Ấn tượng của tôi về cuốn sách này không được tốt lắm. Tôi đã nghĩ mình sẽ đọc một cách thư thả. Nhưng cuộc sống luôn chứa nhiều ẩn số. Một ngày cuối tuần, tôi mở sách ra và bị cuốn theo anh bạn Rax cho tới hồi kết của truyện.
