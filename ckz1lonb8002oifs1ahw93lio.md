@@ -3,7 +3,7 @@
 **Đầu năm đọc gì?** là series nhỏ trong thử thách **100 ngày viết lách** của tôi. Nội dung viết về những cuốn sách tôi đã đọc trong tháng đầu tiên của năm 2022. Đây là những phần tôi đã viết.
 
 - [Phần 1: Tội ác và trừng phạt](https://nanacoder.hashnode.dev/dau-nam-doc-gi-phan-1-toi-ac-va-trung-phat)
-- [Phần 2: Swipe to unlock]()
+- [Phần 2: Swipe to unlock](https://nanacoder.hashnode.dev/dau-nam-doc-gi-phan-2-swipe-to-unlock)
 
 [**Swipe to unlock**](https://www.goodreads.com/book/show/43385933-swipe-to-unlock) là cuốn sách công nghệ thú vị nhất mà tôi từng được đọc. Ba anh chàng PM (Project Manager) từ ba gã khổng lồ (Google, Microsoft và Apple) bắt tay nhau viết nên những câu chuyện công nghệ. Hầu như chương nào tôi cũng thích đọc và đều liên hệ thực tế tới công việc hiện tại của tôi.
 
