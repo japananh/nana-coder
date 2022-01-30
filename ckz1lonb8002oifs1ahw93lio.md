@@ -1,6 +1,6 @@
 ## Đầu năm đọc gì? - Phần 2: Swipe to unlock
 
-**Đầu năm đọc gì?** là series nhỏ trong thử thách **100 ngày viết lách** của tôi. Nội dung viết về những cuốn sách tôi đã đọc trong tháng đầu tiên của năm 2022. Đây là những phần tôi đã viết.
+**Đầu năm đọc gì?** là series nhỏ trong thử thách [100 ngày viết lách](https://nanacoder.hashnode.dev/series/100-days-of-challenge) của tôi. Nội dung viết về những cuốn sách tôi đã đọc trong tháng đầu tiên của năm 2022. Đây là những phần tôi đã viết.
 
 - [Phần 1: Tội ác và trừng phạt](https://nanacoder.hashnode.dev/dau-nam-doc-gi-phan-1-toi-ac-va-trung-phat)
 - [Phần 2: Swipe to unlock](https://nanacoder.hashnode.dev/dau-nam-doc-gi-phan-2-swipe-to-unlock)
