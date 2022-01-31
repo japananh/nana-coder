@@ -6,7 +6,7 @@ Ngoài podcasts của hai nhân vật quen thuộc tôi hay nhắc tới là Nh�
 
 Các phần tôi đã viết:
 
-- [Phần 1: Phần 1: Nguyễn Phi Vân's Podcast](https://nanacoder.hashnode.dev/dau-nam-nghe-gi-phan-1-nguyen-phi-vans-podcast)
+- [Phần 1: Nguyễn Phi Vân's Podcast](https://nanacoder.hashnode.dev/dau-nam-nghe-gi-phan-1-nguyen-phi-vans-podcast)
 
 **Joe Rogan** là một diễn viên hài, bình luận viên UFC và là host của [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk), một trong những podcast có lượt xem nhiều nhất ở Mỹ.
 
