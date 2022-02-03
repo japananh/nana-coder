@@ -26,7 +26,7 @@ I learned [Golang for scalable backend course](https://200lab.io/khoa-hoc/khoa-h
 
 They also have a Q&A group where you can post your questions and get answers within a day. 
 
-They won't teach you how SQL and docker, so you read it and post a question to their platform when you're stuck.
+They don't teach you how SQL and docker work or their syntax, so you have to google them.
 
 The only disadvantage is the content is in Vietnamese.
 
