@@ -2,6 +2,8 @@
 
 Tết thích nhất là được làm những điều mình không có dịp làm trong năm vì thiếu ngủ hoặc quá bận tới bù đầu ra rồi bất đát dĩ phải lãng quên.
 
+Sau đây là checklist mồng 1 Tết của tôi:
+
 - Gọi điện chúc Tết hết những người có trong danh bạ điện thoại của tôi.
 
 - Chạy 3 km liên tục
