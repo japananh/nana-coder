@@ -1,6 +1,8 @@
-## Tối ưu bộ nhớ cho struct trong Go
+## [UPDATED] Tối ưu bộ nhớ cho struct trong Go
 
-Hôm nay, tôi đọc một bài báo khá hay trên **Medium** về cách tăng tốc cho struct trong ngôn ngữ Go. Sau đây là những ý chính của bài báo. Các bạn có thể đọc bài gốc bằng tiếng anh ở [đây](https://betterprogramming.pub/how-to-speed-up-your-struct-in-golang-76b846209587).
+Hôm nay, tôi đọc một bài báo khá hay trên **Medium** về cách tăng tốc cho struct trong ngôn ngữ Go. Sau đây là những ý chính của bài báo. Các bạn có thể đọc bài gốc bằng tiếng anh ở [đây](https://betterprogramming.pub/how-to-speed-up-your-struct-in-golang-76b846209587). 
+
+**[UPDATED]**: Hôm sau, tôi có tình cờ đọc một bài khác có cùng cách giải thích nhưng trình bày kỹ hơn về phần CPU - điều mà tôi thấy hơn khó hiểu ở bài trên.  Tôi nghĩ tác giả đã viết tốt hơn. Bạn có thể đọc ở [đây](https://anandadwirahma.medium.com/save-memory-in-golang-by-compose-struct-correctly-f649d1f457dd).
 
 Khác với ```type``` trong **TypeScript** là thay đổi thứ tự khai báo các trường không ảnh hưởng tới perfomance. 
 
