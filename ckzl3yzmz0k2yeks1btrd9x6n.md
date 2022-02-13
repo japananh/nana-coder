@@ -1,4 +1,4 @@
-## Hậu linh tinh
+## Suy nghĩ trên mây - Hậu linh tinh
 
 Tôi đem những việc tôi chả kể được với ai viết thành mấy dòng như này. Viết xong cứ ngồi cười như ngây như dại. Thật là kỳ cục!
 
