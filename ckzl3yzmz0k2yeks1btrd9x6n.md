@@ -43,10 +43,3 @@ Mười lăm ký lô
 Nhẵn nhụi bóng trơn
 Về nhà em nhé.
 ```
-
-```md
-Cái bạn họ Nguyễn
-Lấy tên là Đại
-Đệm vào chữ Đức
-Có muốn rong chơi?
-```
