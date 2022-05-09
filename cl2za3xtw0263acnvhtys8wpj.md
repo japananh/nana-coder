@@ -73,4 +73,13 @@ Một lưu ý nữa là giao tiếp tiếng anh tốt trong công việc khác v
 
 ## Đừng mắc bẫy thu nhập
 
-Trong 2 - 3 năm đầu tiên đi làm, thứ bạn quan tâm đầu tiên là môi trường tốt, đồng đội tốt và bản thân bạn học được nhiều thứ nâng trình độ bản thân lên tầm cao mới. Đừng vì công ty A trả cao hơn công ty B nhưng một năm sau nhìn lại, bạn không thấy mình học được nhiều thứ mới, không có kỹ năng gì đặc biệt bỏ vào resume. Tới chán muốn tìm cơ hội mới thì phỏng vấn lại rơi vào thế lưỡng nan là không công ty nào trả lương cao hơn cho mình.
+Trong 2 - 3 năm đầu tiên đi làm, thứ bạn quan tâm đầu tiên là môi trường tốt, đồng đội tốt và bản thân bạn học được nhiều thứ nâng trình độ bản thân lên tầm cao mới. Đừng vì công ty A trả cao hơn công ty B nhưng một năm sau nhìn lại, bạn không thấy mình học được nhiều thứ mới, không có kỹ năng gì đặc biệt bỏ vào resume. Tới lúc chán muốn tìm cơ hội mới thì phỏng vấn lại rơi vào thế lưỡng nan là không công ty nào trả lương cao hơn cho mình.
+
+## Phát triển tiếp như nào?
+
+Câu này bạn sẽ tự hỏi mình khi bạn đã đi làm được vài tháng cho tới vài năm. Như đã viết ở phần hổng kiến thức phía trên. Nếu bạn đã đi theo roadmap cá nhân và vẫn thấy bế tắc. Lời khuyên của tôi là hãy kiên nhẫn và tìm hiểu thêm. Tôi đã phải đọc lại giáo trình hệ điều hành tới lần thứ 2 trong vài tháng liền mới hiểu cơ bản về cách bộ nhớ và CPU hoạt động.
+
+Eli Weinstock-Herman có viết một bài blog rất hay về [các nấc thang trong sự nghiệp của một lập trình viên](http://www.tiernok.com/posts/evergreen/mi/defining-developer-career-ladders/#five-paths-for-senior-developers-not-one-). Bạn có thể tham khảo để tự đánh giá trình độ bản thân và điều chỉnh lại roadmap cá nhân.
+
+![ladder-research-02.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652135598872/XPYQzVzlV.png align="center")
+
