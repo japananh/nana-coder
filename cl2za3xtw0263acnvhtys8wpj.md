@@ -51,7 +51,7 @@ Việc học lập trình cần có một kế hoạch rõ ràng. Tìm hiểu ro
 
 ![Screen Shot 2022-05-10 at 5.00.31 AM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652133681072/4RapsJBwp.png align="center")
 
-Bản roadmap trên mạng thường rất chung chung, chỉ đưa ra từ khoá lớn. Bạn phải Google và tham khảo thêm từ rất nhiều nguồn khác để tự tạo ra roadmap cá nhân. Khi đã có roadmap cho riêng mình, bạn sẽ biết mình nên học gì tiếp theo, ít bị lạc hơn và tập trung hơn. Bạn có thể tham khảo bài [post](https://www.facebook.com/groups/1177470863076165/permalink/1191651884991396/) viết kỹ về quá trình học và có việc làm đầu tiên của một bạn trong group [Viet Tech](https://www.facebook.com/groups/1177470863076165/) (group chia sẻ kinh nghiệm cho các bạn trong ngành IT, cụ thể là software engineer)
+Bản roadmap trên mạng thường rất chung chung, chỉ đưa ra từ khoá lớn. Bạn phải Google và tham khảo thêm từ rất nhiều nguồn khác để tự tạo ra roadmap cá nhân. Khi đã có roadmap cho riêng mình, bạn sẽ biết mình nên học gì tiếp theo, ít bị lạc hơn và tập trung hơn. Bạn có thể tham khảo bài [post](https://www.facebook.com/groups/1177470863076165/permalink/1191651884991396/) viết kỹ về quá trình học và có việc làm đầu tiên của chị Ngoc Le trong group [Viet Tech](https://www.facebook.com/groups/1177470863076165/) (group chia sẻ kinh nghiệm cho các bạn trong ngành IT, cụ thể là software engineer)
 
 ## Tìm cho mình tối thiểu một cộng đồng tốt và những người thầy tốt
 
