@@ -1,6 +1,6 @@
 ## Lời khuyên cho các bạn chuyển từ các ngành khác qua IT
 
-Một người anh siêu giỏi, code lâu năm nhắn tin hỏi tôi lời khuyên về định hướng cho các bạn chuyển từ các ngành khác qua IT. Phản ứng đầu tiên của tôi là cool quá vì được thần tượng nhắn tin. Sau 4 năm vừa học vừa làm thì tôi cũng có những bài học đắt giá muốn chia sẻ lại cho mọi người. Hi vọng chúng sẽ có ích.
+Một người anh siêu giỏi, code lâu năm nhắn tin hỏi tôi lời khuyên về định hướng cho các bạn chuyển từ các ngành khác qua IT. Phản ứng đầu tiên của tôi là cool quá vì được thần tượng nhắn tin. Sau 4 năm vừa học vừa làm thì tôi cũng có những bài học đắt giá muốn chia sẻ lại cho mọi người. Hi vọng chúng sẽ có ích cho bạn.
 
 # Các rào cản của làm việc trái ngành
 
@@ -8,15 +8,15 @@ Nhảy ngành là một quyết định lớn trong sự nghiệp của mỗi ng
 
 ## Chênh lệch thu nhập ban đầu
 
-Bạn phải mất 1 - 2 năm đi học hoặc vừa học vừa làm không lương hoặc với mức lương không được cao. Thậm chí là thấp hơn so với công việc trước đó của bạn. Nếu bạn là nguồn thu nhập chính trong gia đình, hãy đảm bảo 2 năm đầu tài chính của bạn dư dả.
+Bạn phải mất 1 - 2 năm đi học hoặc vừa học vừa làm không lương hoặc với mức lương không được cao. Thậm chí là thấp hơn nhiều so với công việc trước đó của bạn. Khi bạn có chút kinh nghiệm thì lúc đó lương mới bắt đầu tăng. Nếu bạn là nguồn thu nhập chính trong gia đình, hãy đảm bảo 2 - 3 năm đầu tài chính của bạn dư dả.
 
 ## Cạnh tranh từ những đối thủ có lợi thế hơn
 
-Bạn sẽ phải chấp nhận đồng đội của bạn hay sếp của bạn nhỏ tuổi hơn bạn, trẻ hơn bạn, giỏi hơn bạn và học nhanh hơn bạn. Tôi cũng từng rất áp lực khi đồng đội giỏi hơn mình rất nhiều. Các bạn ấy học lập trinh từ hồi cấp 3 lại thêm 5 năm đại học. Mỗi người có một xuất phát điểm khác nhau. Chỉ cần hôm nay bạn đi xa hơn ngày hôm qua thì đó cũng là một thành công lớn.
+Bạn sẽ phải chấp nhận đồng đội của bạn hay sếp của bạn nhỏ tuổi hơn bạn, trẻ hơn bạn, giỏi hơn bạn và học nhanh hơn bạn. Tôi cũng từng rất áp lực khi đồng đội giỏi hơn mình rất nhiều. Các bạn ấy học lập trình từ hồi cấp 3 lại thêm 5 năm đại học. Mỗi người có một xuất phát điểm khác nhau. Chỉ cần hôm nay bạn đi xa hơn ngày hôm qua thì đó cũng là một thành công lớn.
 
 ## Phân biệt giới tính
 
-Trong một ngành phần lớn người lao động là nam. Nếu bạn là nữ và hỏi xin lời khuyên nên làm gì ví trí gì, tôi cá là kiểu gì cũng có người khuyên bạn nên làm tester, QA, designer hay những vị trí “dành cho nữ hơn” hay “bớt dùng não hơn”. Bất kể bạn có năng khiếu học toán, thích logic và có khi còn giải quyết vấn đề tốt hơn mấy ông nam. Đây là những định kiến ăn sâu và tiềm thức của nhiều lập trình viên. Tôi hi vọng trong những năm tới, sẽ có nhiều nữ hơn trong ngành IT ở Việt Nam. Đặc biệt là các vị trí Back-end Engineer, Solution Architect, ...
+Trong một ngành phần lớn người lao động là nam. Nếu bạn là nữ và hỏi xin lời khuyên nên làm gì ví trí gì, tôi cá là kiểu gì cũng có nhiều người khuyên bạn nên làm tester, QA, designer hay những vị trí “dành cho nữ hơn” hay “bớt dùng não hơn”. Bất kể bạn có năng khiếu học toán, thích logic và có khi còn giải quyết vấn đề tốt hơn mấy ông nam. Đây là những định kiến ăn sâu vào tiềm thức của nhiều lập trình viên. Tôi hi vọng trong những năm tới, sẽ có nhiều nữ hơn trong ngành IT ở Việt Nam. Đặc biệt là các vị trí Back-end Engineer, Solution Architect, ...
 
 ## Hổng kiến thức
 
