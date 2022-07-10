@@ -6,7 +6,7 @@ I attended a piano concert this week. The blind girl played a piece by Chopin th
 
 # Ben Hoyt
 
-This guy created an [AWK interpreter that is written in the Go language](https://github.com/benhoyt/goawk). He was inspired by the book [AWK programming](https://ia903404.us.archive.org/0/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf) and his father who taught him coding when he was a kid. I was just wondering if I would make the same story when my kid wrote in his/her blog "My mom taught me science and programming when I was a kid. She is my inspiration to create XYZ library". For more info about his work, you can check out his blog [here](https://benhoyt.com/).
+This guy created an [AWK interpreter that is written in the Go language](https://github.com/benhoyt/goawk). He was inspired by the book [AWK programming](https://ia903404.us.archive.org/0/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf) and his father who taught him coding when he was a kid. I was just wondering if I would make the same story when my kid wrote in his/her blog "My mom taught me science and programming when I was a kid. She was my inspiration to create XYZ library". For more info about his work, you can check out his blog [here](https://benhoyt.com/).
 
 Besides his successful career, he also has an amazing life with piano and a fantastic family with his wife and 3 lovely daughters. I enjoy reading their family blog named [Alien in the Apple](https://aliensintheapple.com/). I hope I would become a great mother someday.
 
@@ -17,7 +17,8 @@ I met T, an introverted technical man with a heart for classical music, in the s
 We met again in the Vietnam Museum of Ethnology this week. When he told me about the journey of a woman who bought land in Dalat to live her self-sufficient lifestyle and then realized that her dream was impractical, some pieces of my memories came back. I had a question that I tried to answer for many years since I graduated from high school.
 
 > "Why did I turn boring quickly and NOT wanna see people?"
-> "Why did I NOT have any interested in any conversation with anyone I've met for many years?"
+
+> "Why did I NOT have any interested in any conversation with anyone for many years?"
 
 All of his stories were so cute and hilarious with his passion for art and science. *He was exactly the type of friend that I usually hung out with when I was in school.* 
 
