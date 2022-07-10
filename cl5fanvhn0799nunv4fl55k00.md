@@ -6,7 +6,7 @@ I attended a piano concert this week. The blind girl played a piece by Chopin th
 
 # Ben Hoyt
 
-This guy created an [AWK interpreter that is written in the Go language](https://github.com/benhoyt/goawk). He was inspired by the book [AWK programming](https://ia903404.us.archive.org/0/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf) and his father who taught him coding when he was a kid. I was just wondering if I would make the same story when my kid wrote his/her blog "My mom taught me science and programming when I was a kid. She is my inspiration to create XYZ library". For more info about his work, you can check out his blog [here](https://benhoyt.com/).
+This guy created an [AWK interpreter that is written in the Go language](https://github.com/benhoyt/goawk). He was inspired by the book [AWK programming](https://ia903404.us.archive.org/0/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf) and his father who taught him coding when he was a kid. I was just wondering if I would make the same story when my kid wrote in his/her blog "My mom taught me science and programming when I was a kid. She is my inspiration to create XYZ library". For more info about his work, you can check out his blog [here](https://benhoyt.com/).
 
 Besides his successful career, he also has an amazing life with a piano and a fantastic family with 3 lovely daughters I enjoy reading their family blog named [Alien in the Apple](https://aliensintheapple.com/).
 
